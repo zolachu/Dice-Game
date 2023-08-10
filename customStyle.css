@@ -18,6 +18,7 @@ body {
     font-size: 128px;
     font-weight: 700;
     margin: 0;
+    height: 170px;
 }
 
 .dices {
@@ -40,7 +41,7 @@ body {
 
 img {
     visibility: hidden;
-    height: 100px;
+    height: 150px;
 }
 
 .players {
